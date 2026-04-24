@@ -39,20 +39,20 @@ const socials = [
   {
     icon: LinkedinIcon,
     label: "LinkedIn",
-    href: "#",
+    href: "https://www.linkedin.com/in/yash-shukla-44bb60383?utm_source=share_via&utm_content=profile&utm_medium=member_android",
     color: "#0A66C2",
     dynamicColor: false,
   },
   {
     icon: GithubIcon,
     label: "GitHub",
-    href: "#",
+    href: "https://github.com/ashukla1811-max",
     dynamicColor: true,
   },
   {
     icon: Mail,
     label: "Email",
-    href: "mailto:yash.kumar.shukla.dev@gmail.com",
+    href: "a.shukla1811@gmail.com",
     dynamicColor: true,
   },
 ];
